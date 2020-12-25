@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\bin\Debug\netcoreapp3.1\SWA.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SWA\SWA\obj\Debug\netcoreapp3.1\SWA.genruntimeconfig.cache
