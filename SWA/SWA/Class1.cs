@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.FileIO;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -68,6 +69,7 @@ namespace SWA
                 precentage = (double)obtainedMarks / totalMarks * 100;
             }
         }
+
 
         public void IfCondition(int var, int value)
         {
