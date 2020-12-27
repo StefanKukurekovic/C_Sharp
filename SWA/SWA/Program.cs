@@ -6,6 +6,12 @@ namespace SWA
     {
         static void Main(string[] args)
         {
+            Person thePerson = new Person();
+            Console.WriteLine("The name of person in object thePerson is " + thePerson.Name);
+            thePerson.Name = "Stefan Kukurekovic";
+            Console.WriteLine("The name of person in object thePerson is " + thePerson.Name);
+
+            /*
             Student theStudent = new Student();
 
             Console.Write("How many students would you like to enter: ");
@@ -34,7 +40,6 @@ namespace SWA
 
                 students[count] = theStudent;
 
-
                 count++;
             } while (count != num);
 
@@ -46,6 +51,7 @@ namespace SWA
                 Console.WriteLine(s.Name);
                 Console.WriteLine(s.Age);
             }
+            */
 
             //theStudent.name = "Faraz";
             //Console.WriteLine(myName);
@@ -87,7 +93,7 @@ namespace SWA
                 Console.WriteLine(s.age);                
             }*/
 
-            
+
         }
 
        
