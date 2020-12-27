@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.genruntimeconfig.cache

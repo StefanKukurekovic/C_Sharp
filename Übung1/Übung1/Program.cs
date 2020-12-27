@@ -6,7 +6,16 @@ namespace Übung1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Converter conv = new Converter();
+
+            Console.WriteLine("Please choose Temperature type:");
+            Console.WriteLine("1) Fahrenheit");
+            Console.WriteLine("2) Reamur");
+            Console.WriteLine("3) Kelvin");
+
+            conv.SwitchConvert(Console.ReadLine());
+
+
         }
     }
 }
