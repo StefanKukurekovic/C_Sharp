@@ -10,9 +10,9 @@ namespace SWA
         private string name;
 
         // constructor
-        public Person()
+        public Person(string theName)
         {
-            name = "unknown";
+            name = theName;
             Console.WriteLine("Constructor called...");
         }
 
@@ -22,5 +22,7 @@ namespace SWA
             get { return name; }
             set { name = value; }
         }
+
+        
     }
 }

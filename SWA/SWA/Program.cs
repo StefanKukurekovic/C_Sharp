@@ -6,7 +6,7 @@ namespace SWA
     {
         static void Main(string[] args)
         {
-            Person thePerson = new Person();
+            Person thePerson = new Person("Filip");
             Console.WriteLine("The name of person in object thePerson is " + thePerson.Name);
             thePerson.Name = "Stefan Kukurekovic";
             Console.WriteLine("The name of person in object thePerson is " + thePerson.Name);
