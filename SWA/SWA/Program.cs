@@ -11,6 +11,11 @@ namespace SWA
             thePerson.Name = "Stefan Kukurekovic";
             Console.WriteLine("The name of person in object thePerson is " + thePerson.Name);
 
+            Checker check = new Checker();
+            Console.WriteLine(check.isDefaultValue(5));
+            Console.WriteLine(check.isDefaultValue(true));
+            Console.WriteLine(check.isDefaultValue(0, true));
+
             /*
             Student theStudent = new Student();
 
