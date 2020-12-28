@@ -57,6 +57,7 @@ namespace Übung1
             return Math.Round(result, 2);
         }
 
+
         public double Reamur(double num)
         {
             double result = num * 1.25;
