@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Diagnostics;
 
 namespace UdmBook
 {
@@ -42,7 +43,7 @@ namespace UdmBook
 
         private void SharingPrivateInfo()
         {
-            Console.WriteLine("My salary is €{0} pro month.", salary);
+            Console.WriteLine("My salary is {0} EUR pro month.", salary);
         }
 
         // member constructor
@@ -60,6 +61,7 @@ namespace UdmBook
         {
             // cleanup statements
             Console.WriteLine("Deconstruction of Members object.");
+            Debug.Write("Destruction of Members Objects");
         }
 
     }
