@@ -6,14 +6,11 @@ namespace UdmBook
     {
         static void Main(string[] args)
         {
-            Box box = new Box();
-            //box.length = 3;
-            box.height = 4;
-            box.width = 5;
-            box.SetLength(33);
+            Box box = new Box(3,4,5);
+            box.Width = 10;
 
             box.DisplayInfo();
-            Console.WriteLine(box.GetLength());
+            Console.WriteLine("Front Surface: {0} ", box.FrontSurface);
         }
     }
 }

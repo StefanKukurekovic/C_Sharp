@@ -6,30 +6,38 @@ namespace UdmBook
 {
     class Box
     {
-        // member variables
-        private int length = 3;
-        public int height;
-        public int width;
-        public int volume;
+        private int volume;
+        private int frontSurface;
 
-        public void SetLength(int length)
+        public Box(int length, int height, int width)
         {
-            this.length = length;
+            Length = length;
+            Height = height;
+            Width = width;
         }
 
-        public int GetLength()
+        public int Width { get; set; }
+        public int Height { get; set; }
+        public int Length { get; set; }
+
+        public int Volume
         {
-            return length;
+            get
+            {
+                return Length * Height * Width;
+            }
+        }
+
+        public int FrontSurface
+        {
+            get { return Height * Length; }
         }
 
         public void DisplayInfo()
         {
             Console.WriteLine("Length is {0} and height is {1} and width is {2} so the volume is {3}", 
-                                length, height, width,volume = length * height * width);
+                                Length, Height, Width, volume = Length * Height * Width);
         }
-
-
-
 
 
     }
