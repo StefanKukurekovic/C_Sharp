@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\bin\Debug\netcoreapp3.1\UdmBook.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmBook\obj\Debug\netcoreapp3.1\UdmBook.genruntimeconfig.cache

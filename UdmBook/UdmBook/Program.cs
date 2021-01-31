@@ -6,7 +6,12 @@ namespace UdmBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Box box = new Box();
+            box.length = 3;
+            box.height = 4;
+            box.width = 5;
+
+            box.DisplayInfo();
         }
     }
 }
