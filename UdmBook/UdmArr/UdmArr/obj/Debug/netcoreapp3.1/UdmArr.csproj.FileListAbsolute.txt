@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\bin\Debug\netcoreapp3.1\UdmArr.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\UdmArr\UdmArr\obj\Debug\netcoreapp3.1\UdmArr.genruntimeconfig.cache
