@@ -4,300 +4,81 @@ namespace TickTacToe
 {
     class Program
     {
+        // the playField
+        static char[,] playField =
+        {
+            {'1', '2', '3'},
+            {'4', '5', '6'},
+            {'7', '8', '9'}
+        };
+
         static void Main(string[] args)
         {
-            string player1, player2;
+            int player = 2; // Player 1 stars
+            int input = 0;
+            bool inputCorrect = true;
 
-            string[,] ticTacToeInterface =
-            {
-                {" ", " ", " ", " ", " ", "|", " ", " ", " ", " ", " ","|", " ", " ", " ", " ", " "},
-                {" ", " ", "1", " ", " ", "|", " ", " ", "2", " ", " ","|", " ", " ", "3", " ", " "},
-                {"_","_","_", "_", "_", "|", "_", "_", "_", "_", "_","|", "_", "_", "_","_", "_"},
-                {" ", " ", " ", " ", " ", "|", " ", " ", " ", " ", " ","|", " ", " ", " ", " ", " "},
-                {" ", " ", "4", " ", " ", "|", " ", " ", "5", " ", " ","|", " ", " ", "6", " ", " "},
-                {"_", "_", "_", "_", "_", "|", "_", "_", "_", "_", "_","|", "_", "_", "_", "_", "_"},
-                {" ", " ", " ", " ", " ", "|", " ", " ", " ", " ", " ","|", " ", " ", " ", " ", " "},
-                {" ", " ", "7", " ", " ", "|", " ", " ", "8", " ", " ","|", " ", " ", "9", " ", " "},
-                {" ", " ", " ", " ", " ", "|", " ", " ", " ", " ", " ","|", " ", " ", " ", " ", " "}
-            };
-            /*
-            string one = ticTacToeInterface[1, 2];
-            string two = ticTacToeInterface[1, 8];
-            string three = ticTacToeInterface[1, 14];
-            string four = ticTacToeInterface[4, 2];
-            string five = ticTacToeInterface[4, 8];
-            string six = ticTacToeInterface[4, 14];
-            string seven = ticTacToeInterface[7, 2];
-            string eight = ticTacToeInterface[7, 8];
-            string nine = ticTacToeInterface[7, 14];*/
-
-
-
-
-            bool checkIfEnd = false;
-            int count = 1;
             do
             {
-
-                /*if ((one == two && one == three) || (one == four && one == seven) || (one == five && one == nine) ||
-                    (three == six && three == nine) || (two == five && two == eight) ||
-                    (four == five && four == six) || (seven == eight && seven == nine))
+                SetField();
+                if (player == 2)
                 {
-                    if ((count - 1) % 2 != 0)
-                    {
-                        Console.WriteLine("Congratulations! Player 1 won.");
-                        Console.WriteLine("End game!");
-                        checkIfEnd = true;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Congratulations! Player 2 won.");
-                        Console.WriteLine("End game!");
-                        checkIfEnd = true;
-                    }
+                    player = 1;
+                    EnterXorO(player, input);
                 }
-                else if (count == 11)
+                else if(player == 1)
                 {
-                    Console.WriteLine("Unfortunaly no winner in this game. Try again!");
-                    Console.WriteLine("End game!");
-                    checkIfEnd = true;
-
-                }*/
-
-
-
-
-                PrintTable(ticTacToeInterface);
-                if (count%2 != 0)
-                {
-                    bool check = false;
-                    do
-                    {
-                        Console.WriteLine("Player 1: Choose your field!");
-                        player1 = Console.ReadLine();
-                        check = Validation(player1);
-                    } while (!check);
-
-                    switch (player1)
-                    {
-                        case "1":
-                            if (ticTacToeInterface[1, 2] != "1")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 2] = "X";
-                            count++;
-                            break;
-                        case "2":
-                            if (ticTacToeInterface[1, 8] != "2")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 8] = "X";
-                            count++;
-                            break;
-                        case "3":
-                            if (ticTacToeInterface[1, 14] != "3")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 14] = "X";
-                            count++;
-                            break;
-                        case "4":
-                            if (ticTacToeInterface[4, 2] != "4")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 2] = "X";
-                            count++;
-                            break;
-                        case "5":
-                            if (ticTacToeInterface[4, 8] != "5")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 8] = "X";
-                            count++;
-                            break;
-                        case "6":
-                            if (ticTacToeInterface[4, 14] != "6")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 14] = "X";
-                            count++;
-                            break;
-                        case "7":
-                            if (ticTacToeInterface[7, 2] != "7")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 2] = "X";
-                            count++;
-                            break;
-                        case "8":
-                            if (ticTacToeInterface[7, 8] != "8")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 8] = "X";
-                            count++;
-                            break;
-                        case "9":
-                            if (ticTacToeInterface[7, 14] != "9")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 14] = "X";
-                            count++;
-                            break;
-                        default:
-                            Console.WriteLine("Please only enter numbers 1,2,3,4,5,6,7,8 or 9.");
-                            break;
-                    }
-
-
+                    player = 2;
+                    EnterXorO(player, input);
                 }
-                else
+
+                do
                 {
-                    bool check = false;
-                    do
-                    {
-                        Console.WriteLine("Player 2: Choose your field!");
-                        player2 = Console.ReadLine();
-                        check = Validation(player2);
-                    } while (!check);
-
-                    switch (player2)
-                    {
-                        case "1":
-                            if (ticTacToeInterface[1, 2] != "1")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 2] = "O";
-                            count++;
-                            break;
-                        case "2":
-                            if (ticTacToeInterface[1, 8] != "2")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 8] = "O";
-                            count++;
-                            break;
-                        case "3":
-                            if (ticTacToeInterface[1, 14] != "3")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[1, 14] = "O";
-                            count++;
-                            break;
-                        case "4":
-                            if (ticTacToeInterface[4, 2] != "4")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 2] = "O";
-                            count++;
-                            break;
-                        case "5":
-                            if (ticTacToeInterface[4, 8] != "5")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 8] = "O";
-                            count++;
-                            break;
-                        case "6":
-                            if (ticTacToeInterface[4, 14] != "6")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[4, 14] = "O";
-                            count++;
-                            break;
-                        case "7":
-                            if (ticTacToeInterface[7, 2] != "7")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 2] = "O";
-                            count++;
-                            break;
-                        case "8":
-                            if (ticTacToeInterface[7, 8] != "8")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 8] = "O";
-                            count++;
-                            break;
-                        case "9":
-                            if (ticTacToeInterface[7, 14] != "9")
-                            {
-                                Console.WriteLine("That field has already been filled. Please enter another one");
-                                break;
-                            }
-                            ticTacToeInterface[7, 14] = "O";
-                            count++;
-                            break;
-                        default:
-                            Console.WriteLine("Please only enter numbers 1,2,3,4,5,6,7,8 or 9.");
-                            break;
-                    }
-                }
-                
-                
-            } while (!checkIfEnd);
+                    Console.WriteLine("\nPlayer {0}: Choose your field!", player);
+                    input = Convert.ToInt32(Console.ReadLine());
+                } while (!inputCorrect);
 
 
+            } while (true);
 
         }
 
-        public static bool Validation(string userInput)
-        {
-            int value;
-            if (!Int32.TryParse(userInput, out value))
-            {
-                Console.WriteLine("Please enter a number!\n");
-                return false;
-            }
-            return true;
-        }
-
-        public static void PrintTable(string[,] ticTacToe)
+        public static void SetField()
         {
             Console.Clear();
-            for (int i = 0; i < 9; i++)
-            {
-                for (int j = 0; j < 17; j++)
-                {
-                    Console.Write(ticTacToe[i, j]);
-                }
-                Console.WriteLine();
-            }
+            Console.WriteLine("     |     |     ");
+            Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[0,0], playField[0, 1], playField[0, 2]);
+            Console.WriteLine("_____|_____|_____");
+            Console.WriteLine("     |     |     ");
+            Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[1, 0], playField[1, 1], playField[1, 2]);
+            Console.WriteLine("_____|_____|_____");
+            Console.WriteLine("     |     |     ");
+            Console.WriteLine("  {0}  |  {1}  |  {2}  ", playField[2, 0], playField[2, 1], playField[2, 2]);
+            Console.WriteLine("     |     |     ");
         }
 
+        public static void EnterXorO(int player, int input)
+        {
+            char playerSign = ' ';
+
+            if (player == 1)
+                playerSign = 'X';
+            else if (player == 2)
+                playerSign = 'O';
+
+            switch (input)
+            {
+                case 1: playField[0, 0] = playerSign; break;
+                case 2: playField[0, 1] = playerSign; break;
+                case 3: playField[0, 2] = playerSign; break;
+                case 4: playField[1, 0] = playerSign; break;
+                case 5: playField[1, 1] = playerSign; break;
+                case 6: playField[1, 2] = playerSign; break;
+                case 7: playField[2, 0] = playerSign; break;
+                case 8: playField[2, 1] = playerSign; break;
+                case 9: playField[2, 2] = playerSign; break;
+            }
+        }
 
 
     }
