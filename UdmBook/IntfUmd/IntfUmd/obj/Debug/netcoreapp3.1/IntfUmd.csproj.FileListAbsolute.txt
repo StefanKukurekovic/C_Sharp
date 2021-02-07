@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\bin\Debug\netcoreapp3.1\IntfUmd.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\IntfUmd\IntfUmd\obj\Debug\netcoreapp3.1\IntfUmd.genruntimeconfig.cache
