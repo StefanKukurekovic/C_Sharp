@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace UdmArr
 {
@@ -6,39 +8,25 @@ namespace UdmArr
     {
         static void Main(string[] args)
         {
-            // declare jagged array
-            
-            int[][] jaggedArray = new int[3][];
+            int[] scores = new int[] { 99, 96, 87, 76 };
+            List<int> list = new List<int> { 1, 2, 3, 4 };
+            list.Add(0);
+            list.Add(32);
 
-            jaggedArray[0] = new int[] { 2, 3, 5, 7, 11 };
-            jaggedArray[1] = new int[] { 1, 2, 3 };
-            jaggedArray[2] = new int[] { 13, 21 };
-            
+            list.Sort();
 
-            // alternitive way
-            int[][] jaggedArray2 = new int[][]
+            foreach(int num in list)
             {
-                new int[] {2, 3, 5, 7, 11},
-                new int[] {1, 2, 3}
-            };
-
-            for(int i = 0; i < jaggedArray.Length; i++)
-            {
-                for(int j = 0; j < jaggedArray[i].Length; j++)
-                {
-                    if(j == (jaggedArray[i].Length - 1))
-                    {
-                        Console.Write("{0} ", jaggedArray[i][j]);
-                    }
-                    else
-                    {
-                        Console.Write("{0}, ", jaggedArray[i][j]);
-                    }
-                    
-                }
-                Console.WriteLine();
+                Console.WriteLine(num);
             }
-            
+
+            int index = list.FindIndex(x => x == 4);
+
+            Console.WriteLine(list[index]);
+            list.RemoveAt(index);
+
+            list.ForEach(i => Console.WriteLine(i));
         }
+
     }
 }
