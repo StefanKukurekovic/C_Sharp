@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace PolymophismUMD
 {
@@ -14,6 +16,17 @@ namespace PolymophismUMD
             foreach(string line in lines)
             {
                 Console.WriteLine(line);
+            }
+
+            string[] linesWrite = { "UPDATE:", "just kidding, you not fat gurl", "you full of loooove", "#bigGirls #curves #bigBones #loveOverload" };
+
+            try
+            {
+                File.WriteAllLines(@"C:\Users\kukab\OneDrive\Desktop\UdemyAssets\createdFile6", linesWrite);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Creating file unsucessfull!");
             }
 
             //text = System.IO.File.WriteAllText(@"C:\Users\kukab\OneDrive\Desktop\UdemyAssets\textFile.txt", "UPDATE: just kidding, you not fat gurl, you full of love");
