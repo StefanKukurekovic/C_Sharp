@@ -6,12 +6,10 @@ namespace PolymophismUMD
 {
     class Car
     {
-        public string HP { get; set; }
+        public int HP { get; set; }
         public string Color { get; set; }
 
-        public Car(){ }
-
-        public Car(string hp, string color)
+        public Car(int hp, string color)
         {
             this.HP = hp;
             this.Color = color;
@@ -22,7 +20,7 @@ namespace PolymophismUMD
             Console.WriteLine("HP of this car is {0}, and the color is {1}.", HP, Color);
         }
 
-        public void Rapair()
+        public virtual void Rapair()
         {
             Console.WriteLine("Car was repaired!");
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PolymophismUMD/1.0.0": {
+        "runtime": {
+          "PolymophismUMD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolymophismUMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
