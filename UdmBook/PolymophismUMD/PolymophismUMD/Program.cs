@@ -22,6 +22,12 @@ namespace PolymophismUMD
             Audi audiA3 = new Audi("A3", 100, "green");
             bmwZ3.ShowDetails();
             audiA3.ShowDetails();
+
+            bmwZ3.SetCarIDInfo(1234, "Stefan Kukurekovic");
+            audiA3.SetCarIDInfo(5678, "Marija Kukurekovic");
+
+            bmwZ3.getCarIdInfo();
+            audiA3.getCarIdInfo();
         }
     }
 }
