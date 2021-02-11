@@ -5,10 +5,28 @@ using System.Threading.Tasks;
 
 namespace PolymophismUMD
 {
+    struct Game
+    {
+        public string name;
+        public string developer;
+        public double rating;
+        public string releaseDate;
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            Game game1;
+
+            game1.name = "Pokemon Go";
+            game1.developer = "Niantic";
+            game1.rating = 3.5;
+            game1.releaseDate = "01.07.2016";
+
+            Console.WriteLine("Game 1's name is {0}", game1.name);
+
+
+
             string text = System.IO.File.ReadAllText(@"C:\Users\kukab\OneDrive\Desktop\UdemyAssets\textFile.txt");
             Console.WriteLine(text);
 

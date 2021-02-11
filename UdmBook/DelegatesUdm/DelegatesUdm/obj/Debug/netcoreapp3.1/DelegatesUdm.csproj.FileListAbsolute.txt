@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\bin\Debug\netcoreapp3.1\DelegatesUdm.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\DelegatesUdm\DelegatesUdm\obj\Debug\netcoreapp3.1\DelegatesUdm.genruntimeconfig.cache
