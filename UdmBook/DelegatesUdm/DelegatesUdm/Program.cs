@@ -5,6 +5,8 @@ namespace DelegatesUdm
     class Program
     {
         public delegate string GetTextDelegate(string name);
+        public delegate double GetResultDelegate(double a, double b);
+        public delegate int GetProduct(int a, int b);
         
 
         static void Main(string[] args)
@@ -25,7 +27,11 @@ namespace DelegatesUdm
                 return "Goodbye, " + name;
             };
 
-            Console.WriteLine(getGoodbuyText("Mara"));
+            GetTextDelegate getWelcomeText = name => "Welcome, " + name;
+            GetResultDelegate calculateNumbers = (a, b) => a + b;
+            GetProduct getProduct = (a, b) => a * b;
+
+            Console.WriteLine(getProduct(5,8));
         }
     }
 }
