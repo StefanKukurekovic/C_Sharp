@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\bin\Debug\netcoreapp3.1\CoDj1.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\CoDj1\CoDj1\obj\Debug\netcoreapp3.1\CoDj1.genruntimeconfig.cache
