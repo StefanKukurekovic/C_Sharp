@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\bin\Debug\netcoreapp3.1\Ev_Del_Udm.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\UdmBook\Ev_Del_Udm\Ev_Del_Udm\obj\Debug\netcoreapp3.1\Ev_Del_Udm.genruntimeconfig.cache
