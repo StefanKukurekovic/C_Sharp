@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo2
 {
-    class Wald
+    class Grassland : Enviroment
     {
     }
 }
