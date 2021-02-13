@@ -16,7 +16,6 @@ namespace SchOolCsHaRp
             {
                 Timer(this, null);
                 Thread.Sleep(1000);
-                Console.WriteLine(i);
             }
         }
     }

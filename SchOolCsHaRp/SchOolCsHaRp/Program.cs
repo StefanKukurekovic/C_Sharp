@@ -7,14 +7,20 @@ namespace SchOolCsHaRp
         static void Main(string[] args)
         {
             ClockTimer clockTimer = new ClockTimer();
-            //clockTimer.Timer += new TimerEvent(onClockTick);
+            clockTimer.Timer += new TimerEvent(onClockTick);
+            clockTimer.Timer += new TimerEvent(onClockTickTwo);
             clockTimer.Start();
         }
-        /*
+        
         public static void onClockTick(object sender, EventArgs e)
         {
             Console.WriteLine("Recived a clock tick event...");
-        }*/
+        }
+
+        public static void onClockTickTwo(object sender, EventArgs e)
+        {
+            Console.WriteLine("Boo!");
+        }
 
 
     }
