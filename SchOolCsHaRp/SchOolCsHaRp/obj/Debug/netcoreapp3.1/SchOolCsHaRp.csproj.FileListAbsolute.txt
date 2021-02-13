@@ -1,0 +1,13 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.deps.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.runtimeconfig.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.runtimeconfig.dev.json
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\bin\Debug\netcoreapp3.1\SchOolCsHaRp.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.AssemblyInfoInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.AssemblyInfo.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.dll
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\SchOolCsHaRp\SchOolCsHaRp\obj\Debug\netcoreapp3.1\SchOolCsHaRp.genruntimeconfig.cache
