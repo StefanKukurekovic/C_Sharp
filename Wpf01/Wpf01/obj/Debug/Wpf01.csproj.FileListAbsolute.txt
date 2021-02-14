@@ -1,0 +1,15 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\bin\Debug\Wpf01.exe.config
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\bin\Debug\Wpf01.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\bin\Debug\Wpf01.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\MainWindow.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\App.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01_MarkupCompile.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01_MarkupCompile.lref
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\MainWindow.baml
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.g.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.Properties.Resources.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.GenerateResource.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Wpf01\Wpf01\obj\Debug\Wpf01.pdb
