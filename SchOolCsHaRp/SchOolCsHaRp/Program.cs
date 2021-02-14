@@ -9,17 +9,20 @@ namespace SchOolCsHaRp
             ClockTimer clockTimer = new ClockTimer();
             clockTimer.Timer += new TimerEvent(onClockTick);
             clockTimer.Timer += new TimerEvent(onClockTickTwo);
+            clockTimer.Timer -= new TimerEvent(onClockTickTwo);
             clockTimer.Start();
         }
         
-        public static void onClockTick(object sender, EventArgs e)
+        public static void onClockTick(object sender, ClockTimerArgs e)
         {
-            Console.WriteLine("Recived a clock tick event...");
+            Console.Clear();
+            Console.WriteLine("{0}", e.TickCount);
+            
         }
 
         public static void onClockTickTwo(object sender, EventArgs e)
         {
-            Console.WriteLine("Boo!");
+            Console.Clear();
         }
 
 

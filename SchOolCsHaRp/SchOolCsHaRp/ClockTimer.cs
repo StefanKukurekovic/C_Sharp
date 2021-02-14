@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace SchOolCsHaRp
 {
-    public delegate void TimerEvent(object sender, EventArgs e);
+    public delegate void TimerEvent(object sender, ClockTimerArgs e);
     class ClockTimer
     {
         public event TimerEvent Timer;
@@ -14,7 +14,7 @@ namespace SchOolCsHaRp
         {
             for(int i = 0; i < 5; i++)
             {
-                Timer(this, null);
+                Timer(this, new ClockTimerArgs(i+1));
                 Thread.Sleep(1000);
             }
         }
