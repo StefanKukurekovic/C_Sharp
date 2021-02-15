@@ -22,7 +22,6 @@ namespace Wpf01
     {
         public MainWindow()
         {
-            InitializeComponent();
         }
     }
 }
