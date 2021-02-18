@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Windows;
+
 
 namespace ConsoleApp2
 {
@@ -6,7 +8,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Application.Run(new MyWindow());
         }
     }
 }
