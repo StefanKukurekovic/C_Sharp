@@ -23,6 +23,17 @@ namespace ListBox
         public MainWindow()
         {
             InitializeComponent();
+            List<Match> matches = new List<Match>();
+            matches.Add(new Match() { Team1 = "Bayern Munich", Team2 = "Real Madrid", Score1 = 3, Score2 = 2, Completion = 85})
         }
+    }
+
+    public class Match
+    {
+        public int Score1 { get; set; }
+        public int Score2 { get; set; }
+        public string Team1 { get; set; }
+        public string Team2 { get; set; }
+        public int Completion { get; set; }
     }
 }
