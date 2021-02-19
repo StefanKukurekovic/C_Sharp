@@ -105,6 +105,7 @@
                                 <Label Content="12:34" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="White"/>
                                 <Label Content="25.09.2017" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="White"/>
 
+                                
                             </StackPanel>
                         </Border>
                     </StackPanel>
