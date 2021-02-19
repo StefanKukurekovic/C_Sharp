@@ -1,0 +1,15 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\bin\Debug\Dojo2.exe.config
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\bin\Debug\Dojo2.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\bin\Debug\Dojo2.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\MainWindow.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\App.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2_MarkupCompile.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2_MarkupCompile.lref
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\MainWindow.baml
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.g.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.Properties.Resources.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.csproj.GenerateResource.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\Dojo2\Dojo2\obj\Debug\Dojo2.pdb
