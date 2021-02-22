@@ -1,0 +1,15 @@
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\bin\Debug\DummyClient.exe.config
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\bin\Debug\DummyClient.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\bin\Debug\DummyClient.pdb
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.csprojAssemblyReference.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\MainWindow.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\App.g.cs
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient_MarkupCompile.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient_MarkupCompile.lref
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\MainWindow.baml
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.g.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.Properties.Resources.resources
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.csproj.GenerateResource.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.exe
+C:\Users\kukab\OneDrive\Desktop\Documents\FH\3 Semester\RQE\Gitkraken Repo\C_Sharp\TruckExample\DummyClient\obj\Debug\DummyClient.pdb
