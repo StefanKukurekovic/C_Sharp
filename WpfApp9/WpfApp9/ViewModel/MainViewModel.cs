@@ -16,7 +16,8 @@ namespace WpfApp9.ViewModel
         public int ClickCounter
         {
             get { return clickCounter; }
-            set { clickCounter = value; RaisePropertyChanged("ClickCoounter"); }
+            set { clickCounter = value; RaisePropertyChanged("ClickCoounter"); 
+            }
         }
 
         public bool IsClickable
