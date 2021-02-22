@@ -20,4 +20,5 @@
             <Button Content="ClickMe" Margin="10" Width="70" Command="{Binding ClickBtnCommand2}"></Button>
         </StackPanel>
     </StackPanel>
+    
 </Window>

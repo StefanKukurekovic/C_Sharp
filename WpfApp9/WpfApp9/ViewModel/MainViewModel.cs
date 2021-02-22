@@ -13,6 +13,7 @@ namespace WpfApp9.ViewModel
         RelayCommand clickBtnCommand;
         RelayCommand clickBtnommand2;
 
+
         public int ClickCounter
         {
             get { return clickCounter; }
