@@ -8,5 +8,6 @@ namespace TruckExample.Communication
 {
     class ClientHandler
     {
+
     }
 }
