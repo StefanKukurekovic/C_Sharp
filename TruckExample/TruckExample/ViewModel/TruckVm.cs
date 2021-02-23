@@ -8,5 +8,6 @@ namespace TruckExample.ViewModel
 {
     class TruckVm
     {
+
     }
 }

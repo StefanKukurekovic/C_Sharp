@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TruckExample.Communication
 {
+
     class ClientHandler
     {
 
